@@ -18,11 +18,6 @@ Analyzed pension fund investment strategies to minimize initial cash needs under
 - **Additional Cash Required (Bad Case):** $34,280  
 - **Critical Pension Adjustment Years:** 5, 11, 14, and 15  
 
-### Files Included:
-- **`Case Assignment 1-1.ipynb`** *(Jupyter Notebook detailing optimization steps and Python code)*
-- **`annotated-Case Assignment 1-1 - Uw1891-1.pdf`** *(Detailed mathematical analysis and LP solution insights)*
-- **`Pension Fund Analysis.pdf`** *(Summary report and business insights)*
-
 ### Practical Takeaways:
 - Maintain cash buffers for economic downturns.
 - Monitor interest rate environments closely to inform bond investment strategies.
